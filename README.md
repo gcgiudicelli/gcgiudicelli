@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello, stranger. :stuck_out_tongue_winking_eye:
 
 <!--
 **gcgiudicelli/gcgiudicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
