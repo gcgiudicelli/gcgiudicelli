@@ -3,6 +3,10 @@
 I'm still organizing this profile - please be patient.
 
 <!--
+
+HOW TO CREATE A README FILE: https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github?gclid=Cj0KCQjwn9CgBhDjARIsAD15h0BftHMQIJNKiofVvJ0JjiBz-AoUIpuG1o4YqX2O5jBF2QII6RQHaUEaAgMsEALw_wcB
+GITHUB EMOJIS: https://github.com/hideraldus13/github-emoji
+
 **gcgiudicelli/gcgiudicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
