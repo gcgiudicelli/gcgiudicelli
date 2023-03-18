@@ -1,5 +1,7 @@
 ## Hello, stranger. :stuck_out_tongue_winking_eye:
 
+I'm still organizing this profile - please be patient.
+
 <!--
 **gcgiudicelli/gcgiudicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
