@@ -2,6 +2,13 @@
 
 I'm still organizing this profile - please be patient.
 
+## I know a little bit of:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+
+
+
+
 ![Snake animation](https://github.com/gcgiudicelli/gcgiudicelli/blob/output/github-contribution-grid-snake.svg)
 
 <div>
