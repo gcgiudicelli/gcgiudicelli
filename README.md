@@ -4,6 +4,12 @@ I'm still organizing this profile - please be patient.
 
 ![Snake animation](https://github.com/gcgiudicelli/gcgiudicelli/blob/output/github-contribution-grid-snake.svg)
 
+<div>
+<a href="https://github.com/gcgiudicelli">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcgiudicelli&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcgiudicelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <!--
 
 HOW TO CREATE A README FILE: https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github?gclid=Cj0KCQjwn9CgBhDjARIsAD15h0BftHMQIJNKiofVvJ0JjiBz-AoUIpuG1o4YqX2O5jBF2QII6RQHaUEaAgMsEALw_wcB
