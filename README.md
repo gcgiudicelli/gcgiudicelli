@@ -1,6 +1,6 @@
 ## Hello, stranger. :stuck_out_tongue_winking_eye:
 
-I'm a geneticist biologist :woman_scientist_tone1: who decided to venture into the world of bioinformatics :woman_technologist_tone1:. 
+I'm a geneticist biologist 🧬 who decided to venture into the world of bioinformatics 🖥️. 
 
 
 ## I usually work with:
