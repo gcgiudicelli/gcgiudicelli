@@ -1,6 +1,6 @@
 ## Hello, stranger. :stuck_out_tongue_winking_eye:
 
-I'm still organizing this profile - please be patient.
+I'm a geneticist biologist :woman_scientist_tone1: who decided to venture into the world of bioinformatics :woman_technologist_tone1:. 
 
 
 ## I usually work with:
