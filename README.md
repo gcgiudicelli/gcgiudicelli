@@ -20,8 +20,8 @@ I'm a geneticist biologist 🧬 who decided to venture into the world of bioinfo
 
 <div>
 <a href="https://github.com/gcgiudicelli">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcgiudicelli&layout=compact&langs_count=7&theme=aura"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=gcgiudicelli&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcgiudicelli&layout=compact&langs_count=7&theme=aura"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=gcgiudicelli&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
