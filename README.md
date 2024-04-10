@@ -13,7 +13,7 @@ I'm a geneticist biologist 🧬 who decided to venture into the world of bioinfo
 
 
 
-![Snake animation](https://github.com/gcgiudicelli/gcgiudicelli/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/gcgiudicelli/gcgiudicelli/blob/output/github-contribution-grid-snake2.svg)
 
 <div>
 <a href="https://github.com/gcgiudicelli">
