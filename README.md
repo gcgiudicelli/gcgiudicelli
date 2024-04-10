@@ -10,12 +10,6 @@ I'm a geneticist biologist 🧬 who decided to venture into the world of bioinfo
 #### I know the basics of:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
 
-
-
-
-
-![snake gif](https://github.com/gcgiudicelli/gcgiudicelli/blob/output/github-contribution-grid-snake.gif)
-
 <div>
 <a href="https://github.com/gcgiudicelli">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcgiudicelli&layout=compact&langs_count=7&theme=aura"/>
@@ -27,6 +21,7 @@ I'm a geneticist biologist 🧬 who decided to venture into the world of bioinfo
 <!--
 HOW TO CREATE A README FILE: https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github?gclid=Cj0KCQjwn9CgBhDjARIsAD15h0BftHMQIJNKiofVvJ0JjiBz-AoUIpuG1o4YqX2O5jBF2QII6RQHaUEaAgMsEALw_wcB
 GITHUB EMOJIS: https://github.com/hideraldus13/github-emoji
+SNAKE: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
 
 **gcgiudicelli/gcgiudicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
