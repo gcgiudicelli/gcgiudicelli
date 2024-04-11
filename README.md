@@ -1,4 +1,4 @@
-## Hello, stranger. :stuck_out_tongue_winking_eye:
+## Hello, stranger. :grin:
 
 I'm a geneticist biologist 🧬 who decided to venture into the world of bioinformatics 🖥️. 
 
